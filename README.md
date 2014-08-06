@@ -1,4 +1,4 @@
-JAXRS2-0-Custom-Marshalling
+Custom payload marshalling features in JAXRS 2.0 (RESTful web services API in Java EE 7)
 ===========================
 
 Consider a scenario where we already have rich domain Java objects available to us. But
