@@ -9,4 +9,4 @@ Consider a scenario where we already have rich domain Java objects available to 
 
 Here is where we can leverage customized content handling feature available in JAX-RS 2.0. The MessageBodyWriter and MessageBodyReader interfaces provide us a way to plug in our customized marshalling/unmarshalling mechanism and allow the JAX-RS run time to take care of the rest!
 
-The corresponding blog post can be read from http://abhirockzz.wordpress.com/2014/03/27/jax-rs-2-0-custom-content-handling/
+The corresponding [blog post can be read here](http://abhirockzz.wordpress.com/2014/03/27/jax-rs-2-0-custom-content-handling/)
