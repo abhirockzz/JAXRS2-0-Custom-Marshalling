@@ -1,4 +1,4 @@
-Custom payload marshalling features in JAXRS 2.0 (RESTful web services API in Java EE 7)
+Java EE 7: Payload marshalling using RESTful web services using JAX-RS 2.0
 ===========================
 
 Consider a scenario where we already have rich domain Java objects available to us. But
