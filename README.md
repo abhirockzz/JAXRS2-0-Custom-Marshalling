@@ -1,4 +1,4 @@
-Java EE 7: Payload marshalling using RESTful web services using JAX-RS 2.0
+Java EE 7: Payload marshalling in RESTful web services using JAX-RS 2.0
 ===========================
 
 Consider a scenario where we already have rich domain Java objects available to us. But
